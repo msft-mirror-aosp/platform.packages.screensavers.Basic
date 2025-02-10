@@ -15,4 +15,5 @@
   -->
 
  <dream xmlns:android="http://schemas.android.com/apk/res/android"
-    android:previewImage="@drawable/preview" />
+    android:previewImage="@drawable/preview"
+    android:showClockAndComplications="true" />
